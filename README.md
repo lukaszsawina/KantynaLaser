@@ -1,13 +1,12 @@
 # Kantyna Laser
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ## About The Project
 
 Final project for the Internet Engineering course at AGH. </br>
 The project introduces a web application that serves as a portal for recipes.
 The website features the ability to browse public recipes added by other users. Each user also has the option to create their own account and add their recipes. Additionally, users can specify whether their recipes will be public or private.
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 ## Frameworks used in the application
 
