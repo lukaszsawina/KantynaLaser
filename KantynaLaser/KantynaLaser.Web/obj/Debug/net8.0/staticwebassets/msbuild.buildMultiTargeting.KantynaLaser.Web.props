@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KantynaLaser.Web.props" />
+</Project>
