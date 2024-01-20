@@ -19,9 +19,10 @@ The website features the ability to browse public recipes added by other users. 
 | Entity Framework  | 
 | SQL Server        |
 | Xunit             |
-| FakeItEasy        |
+| AutoMapper        |
 | FluentAssertions  |
 | FluentValidation  |
+| IdentityModel.Tokens.Jwt |
 
 
 [product-screenshot]: KantynaLaser/images/KantynaLaser.png
